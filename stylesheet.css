@@ -1,0 +1,111 @@
+/*only for the header-do not use for others*/
+header{
+    width: 1465px;
+    height: 150px;
+    border-style: solid;
+    border-radius: 5px;
+    display: flex;
+}
+.titulo{
+    height:150px; 
+    width: 1323px;
+    font-size: 120px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 5px 5px 2px black;
+}
+.headcaixa{
+    width: 147px;
+    height: 150px;
+    
+}
+/*------------------------------------------------------------------------------*/
+/*only for navigator*/
+nav{
+    margin-top: 5px;
+    width: 1445px;
+    height:20px;
+    border-style: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+}
+.menubuttons{
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    
+}
+.destaques{
+    margin-top: 10px;
+    width: 956px;
+    height:800px;
+    border-style: solid;
+}
+.anuncios{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 490px;
+    height: 800px;
+    border-style: solid;
+}
+.rodape{
+    width: 1460px;
+    height:20px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.anunbox{
+    width: 950px;
+    height:391px;
+    border-style: solid;
+}
+.destaquehead{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.anunboxmini{
+    width: 470px;
+    height: 391px;
+    border-style: solid;
+    border-color: green;
+}
+.form{
+    width: 481px;
+    height: 35px;
+    border-style: solid;
+    border-color: green;
+
+}
+.anundiv{
+    width: 485px;
+    height: 390px;
+    border-style: solid;
+    border-color: blue;
+}
+.maislidos{
+    width: 481px;
+    height: 346px;
+    border-style: solid;
+    border-color: green;
+}
+.anundivdiv{
+    width: 481px;
+    height: 195px;
+    border-style: solid;
+    border-color: green;
+    display: flex;
+}
+.finaldiv{
+    height: 184px;
+    width: 240px;
+    border-style: solid;
+    border-color: purple;
+}
